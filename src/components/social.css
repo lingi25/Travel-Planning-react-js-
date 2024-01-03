@@ -1,0 +1,21 @@
+.follow {
+     display : flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 30px 0 30px;
+    }
+    
+    
+    .follow * {
+    margin-right: 10px;
+    }.follow {
+    display: flex;
+     align-items: center;
+     justify-content: flex-start;
+     margin: 30px 0 30px;
+    }
+    
+    
+    .follow * {
+     margin-right: 10px;
+    }
